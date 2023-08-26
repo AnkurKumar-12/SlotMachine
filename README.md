@@ -18,7 +18,7 @@ Interactive Gameplay: The game prompts the player to interact by betting a certa
 Installation and Usage
 
 Clone the repository to your local machine:
-git clone https://github.com/datguyralph/slotmachine.git
+git clone https://github.com/AnkurKumar-12/slotmachine.git
 
 Navigate to the project directory:
 //cd slotmachine
